@@ -1,0 +1,8 @@
+title: jamb-uh-ree
+description: Find people to jam with
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
