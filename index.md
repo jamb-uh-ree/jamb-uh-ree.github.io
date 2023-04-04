@@ -13,7 +13,7 @@ Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each othe
 
 ## Future Plans
 
-The Jamb-UH-ree application will allow users to make an account, add information to that account, and browse/filter through a list of other accounts to find others that would like to participate in a jam sesesion.
+The Jamb-UH-ree application will allow users to make an account, add information to that account, and browse/filter through a list of other accounts to find others that would like to participate in a jam session.
 
 ## Mock Ups
 
@@ -39,7 +39,7 @@ In the Browsing page, users can look through the list of other users to find peo
 
 ### Profile Page
 
-In the profle page you can view more specifics about a user, or edit your own information
+In the profile page you can view more specifics about a user, or edit your own information
 
 ![](images/profile-page.png)
 
