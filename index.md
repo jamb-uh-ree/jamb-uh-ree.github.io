@@ -6,43 +6,75 @@
 * [Overview](#overview)
 * [Future Plans](#future-plans)
 * [Mock Ups](#mock-ups)
+* [Deployment](#deployment)
 
 ## Overview
 
-Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions.
+Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions. The Jamb-UH-ree organization's GitHub can be viewed <a href="https://github.com/jamb-uh-ree">here</a>.
+
 
 ## Future Plans
 
 The Jamb-UH-ree application will allow users to make an account, add information to that account, and browse/filter through a list of other accounts to find others that would like to participate in a jam session.
 
+
 ## Mock Ups
 
 This section provides a mock up of the Jamb-UH-ree user interface and its capabilities.
 
-### Landing Page
+### Sign Up
 
-The landing page is presented to users when they visit the top-level URL to the site. Users can choose to log in or make an account.
+The sign up is presented to users when they visit the site. Users can choose to sign up by inputting an email address and creating a password, or choose to sign in if they already have an account.
 
-![](images/landing-page.png)
+![](images/signup.png)
 
-### Sign up
+### Sign in
 
-This is where users can input their information to make a Jamb-UH-ree account.
+This is where users can input their email and password to log into their Jamb-UH-ree account.
 
-![](images/signup-page.png)
+![](images/signin.png)
 
-### Browse Page
+### Edit Profile
 
-In the Browsing page, users can look through the list of other users to find people to jam with.
+This is where users can personalize and add more information to their profile.
 
-![](images/browse-page.png)
+![](images/edit.png)
 
 ### Profile Page
 
-In the profile page you can view more specifics about a user, or edit your own information
+This is an example of a profile page of Elis Diep.
 
-![](images/profile-page.png)
+![](images/profile.png)
+
+### Browse Artists Page
+
+In the artist browse page, users can look through the list of other users to find people to jam with.
+
+![](images/browse-page.png)
+
+### Browse Jam Sessions Page
+
+In the jam session browse page, users can look through the list of ongoing and future jam sessions to learn more about the sessions and choose to join.
+
+![](images/browsej.png)
+
+### Create Jam Session
+
+The create jam session page allows users to create a jam session so others will be able to see and join the session.
+
+![](images/createjam.png)
+
+
+## Deployment
+
+This project will be deployed to Digital Ocean soon.
+
+
+## Progress
+
+You can view the team's progress of the first milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/1/views/1?layout=board">here</a>.
+
 
 ## Team
 
-Jamb-UH-ree is designed, implemented, and maintained by [Jaeden Chang](https://jaedench.github.io/), [Elis Diep](https://elisdiep.github.io/), [Reid Lum](https://reidlum.github.io/), and [Caleb Mueller](https://calebmueller-uh.github.io/).
+Jamb-UH-ree is designed, implemented, and maintained by [Jaeden Chang](https://jaedench.github.io/), [Elis Diep](https://elisdiep.github.io/), [Reid Lum](https://reidlum.github.io/), and [Caleb Mueller](https://calebmueller-uh.github.io/). These members have signed a contract for this organization which can viewed <a href="https://docs.google.com/document/d/1RjHlU3JCVSA35spR8NsnANxm8wTX9YFo0xGyXEpNkgY/edit?usp=sharing">here</a>.
