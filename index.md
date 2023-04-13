@@ -7,6 +7,7 @@
 * [Current State](#current-state)
 * [Deployment](#deployment)
 * [Progress](#progress)
+* [Team](#team)
 
 ## Overview
 
