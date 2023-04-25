@@ -84,7 +84,7 @@ You can view the team's progress of the first milestone <a href="https://github.
 You can view the team's progress of the second milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the second milestone was to implement more of the database and functionality of the website.
 
 ### Milestone 3
-You can view the team's progress of the third milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the third milestone is to implement more of the functionality of the website as well as create an admin page and clean up the application.
+You can view the team's progress of the third milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/4/views/1?layout=board">here</a>. The goal for the third milestone is to implement more of the functionality of the website as well as create an admin page and clean up the application.
 
 
 ## Team
