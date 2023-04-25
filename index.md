@@ -77,10 +77,13 @@ This project has been deployed to Digital Ocean and can be found at <a href="?">
 
 ## Progress
 
+### Milestone 1
 You can view the team's progress of the first milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/1/views/1?layout=board">here</a>. The main goal for this milestone was to create the majority of the user interface.
 
+### Milestone 2
 You can view the team's progress of the second milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the second milestone was to implement more of the database and functionality of the website.
 
+### Milestone 3
 You can view the team's progress of the third milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the third milestone is to implement more of the functionality of the website as well as create an admin page and clean up the application.
 
 
