@@ -4,7 +4,8 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Current State](#current-state)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Progress](#progress)
 * [Team](#team)
@@ -13,7 +14,7 @@
 
 Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions. The Jamb-UH-ree organization's GitHub can be viewed <a href="https://github.com/jamb-uh-ree">here</a>.
 
-## Current State
+## User Guide
 
 This section provides the current state of the Jamb-UH-ree user interface and its capabilities.
 
@@ -65,17 +66,22 @@ The create jam session page allows users to create a jam session so others will 
 
 ![](images/m1createjam.png)
 
+## Developer Guide
+
+To install this app, clone the Github repo and create a local repository on your system. Navigate to the app directory of the repository and run "meteor npm install". After this run "meteor npm run start" and the app will run on http://localhost:3000/.
 
 ## Deployment
 
-This project has been deployed to Digital Ocean and can be found <a href="http://165.232.106.39/">here</a>.
+This project has been deployed to Digital Ocean and can be found at <a href="?">https://jamb-uh-ree.site/</a>.
 
 
 ## Progress
 
 You can view the team's progress of the first milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/1/views/1?layout=board">here</a>. The main goal for this milestone was to create the majority of the user interface.
 
-You can view the team's progress of the second milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the second milestone is to implement more of the database and functionality of the website.
+You can view the team's progress of the second milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the second milestone was to implement more of the database and functionality of the website.
+
+You can view the team's progress of the third milestone <a href="https://github.com/orgs/jamb-uh-ree/projects/3/views/1?layout=board">here</a>. The goal for the third milestone is to implement more of the functionality of the website as well as create an admin page and clean up the application.
 
 
 ## Team
