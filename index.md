@@ -16,55 +16,55 @@ Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each othe
 
 ## User Guide
 
-This section provides the current state of the Jamb-UH-ree user interface and its capabilities.
+This section provides the user interface and capabilities of the Jamb-UH-ree application.
 
 ### Landing
 
 The landing page is the first page presented to users who are not logged into an account. Here users can choose to make an account, log in, and learn more about Jamb-UH-ree.
 
-![](images/m1landing.png)
+![](images/m2landing.png)
 
 ### Sign Up
 
 This is where users can input their email and password to create a Jamb-UH-ree account.
 
-![](images/m1signup.png)
+![](images/m2signup.png)
 
 ### Sign In
 
 This is where users can input their email and password to log into a Jamb-UH-ree account.
 
-![](images/m1signin.png)
+![](images/m2signin.png)
 
 ### Profile Page
 
 This is an example of a profile page of Elis Diep.
 
-![](images/m1profile.png)
+![](images/m2profile.png)
 
 ### Edit Profile
 
 This is where users can personalize and add more information to their profile.
 
-![](images/m1edit.png)
+![](images/m2edit.png)
 
 ### Browse Artists Page
 
 In the artist browse page, users can look and filter through the list of other users to find people to jam with.
 
-![](images/m1browsea.png)
+![](images/m2browsea.png)
 
 ### Browse Jam Sessions Page
 
 In the jam session browse page, users can look and filter through the list of ongoing and future jam sessions to learn more about the sessions and choose to join.
 
-![](images/m1browsej.png)
+![](images/m2browsej.png)
 
 ### Create Jam Session
 
 The create jam session page allows users to create a jam session so others will be able to see and join the session.
 
-![](images/m1createjam.png)
+![](images/m2createjam.png)
 
 ## Developer Guide
 
@@ -72,7 +72,7 @@ To install this app, clone the Github repo and create a local repository on your
 
 ## Deployment
 
-This project has been deployed to Digital Ocean and can be found at <a href="?">https://jamb-uh-ree.site/</a>.
+This project has been deployed to Digital Ocean and can be found at <a href="https://jamb-uh-ree.site">https://jamb-uh-ree.site</a>.
 
 
 ## Progress
