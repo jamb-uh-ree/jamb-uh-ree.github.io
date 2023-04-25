@@ -38,7 +38,7 @@ This is where users can input their email and password to log into a Jamb-UH-ree
 
 ### Profile Page
 
-This is an example of a profile page of Elis Diep.
+This is an example of a profile page of Albert Haynes. One can see Albert's information as well as the jam sessions he is attending.
 
 ![](images/m2profile.png)
 
