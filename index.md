@@ -12,7 +12,7 @@
 
 ## Overview
 
-Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions. The Jamb-UH-ree organization's GitHub can be viewed <a href="https://github.com/jamb-uh-ree">here</a>.
+Finding other students that share musical interests is a difficult task which Jamb-UH-ree intends to solve. Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions based on skill level, interests, influences and instruments. The Jamb-UH-ree organization's GitHub can be viewed <a href="https://github.com/jamb-uh-ree">here</a>.
 
 ## User Guide
 
