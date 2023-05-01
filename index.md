@@ -5,6 +5,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Progress](#progress)
@@ -65,6 +66,8 @@ In the jam session browse page, users can look and filter through the list of on
 The create jam session page allows users to create a jam session so others will be able to see and join the session.
 
 ![](images/m2createjam.png)
+
+## Community Feedback
 
 ## Developer Guide
 
