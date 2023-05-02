@@ -77,34 +77,34 @@ The create jam session page allows users to create a jam session so others will 
 
 After deploying the application the team had users test the application and provide feedback. This was done through a Google form that the users could fill out after experiencing the app. From this it was found that most users found the application very easy to use and found the layout of the application ideal. It was also found that many users enjoyed the overall theme of the application. One comment suggested that we redirect users to the profile page after editing their profile. This was actually thought about by the team before deployment, but other more important issues needed to be solved.
 
-Ruben:
-Usability: 5
-Layout: 5
-Theme: 5
-Comments: This Buggah was shmean.
+Ruben: </br>
+Usability: 5 </br>
+Layout: 5 </br>
+Theme: 5 </br>
+Comments: This Buggah was shmean. </br>
 
-Alexander:
-Usability: 4
-Layout: 4
-Theme: 4
-Comments: N/A
+Alexander: </br>
+Usability: 4 </br>
+Layout: 4 </br>
+Theme: 4 </br>
+Comments: N/A </br>
 
-Joshua:
-Usability: 5
-Layout: 5
-Theme: 4
-Comments: UI was simple to follow, but did not enjoy blue and yellow text.
+Joshua: </br>
+Usability: 5 </br>
+Layout: 5 </br>
+Theme: 4 </br>
+Comments: UI was simple to follow, but did not enjoy blue and yellow text. </br>
 
-Eunices:
-Usability: 5
-Layout: 5
-Theme: 5
-Comments: Great website.
+Eunices: </br>
+Usability: 5 </br>
+Layout: 5 </br>
+Theme: 5 </br>
+Comments: Great website. </br>
 
-Jasmin:
-Usability: 5
-Layout: 5
-Theme: 5
+Jasmin: </br>
+Usability: 5 </br>
+Layout: 5 </br>
+Theme: 5 </br>
 Comments: When I filled out the sign up page and pressed submit it did not redirect me to the profile I had just created. Instead I had to investigate whether I had actually made a profile. Otherwise I thought the site was visually appealing and easy to navigate. I like the variety of genres and skills that were represented and I think it would be a great platform to help musicians and fans connect.
 
 
