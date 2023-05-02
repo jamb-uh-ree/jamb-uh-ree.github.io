@@ -85,27 +85,27 @@ Theme: 5 <br>
 Comments: This Buggah was shmean. <br>
 
 Alexander: <br>
-Usability: 4 </br>
-Layout: 4 </br>
-Theme: 4 </br>
-Comments: N/A </br>
+Usability: 4 <br>
+Layout: 4 <br>
+Theme: 4 <br>
+Comments: N/A <br>
 
-Joshua: </br>
-Usability: 5 </br>
-Layout: 5 </br>
-Theme: 4 </br>
-Comments: UI was simple to follow, but did not enjoy blue and yellow text. </br>
+Joshua: <br>
+Usability: 5 <br>
+Layout: 5 <br>
+Theme: 4 <br>
+Comments: UI was simple to follow, but did not enjoy blue and yellow text. <br>
 
-Eunices: </br>
-Usability: 5 </br>
-Layout: 5 </br>
-Theme: 5 </br>
-Comments: Great website. </br>
+Eunices: <br>
+Usability: 5 <br>
+Layout: 5 <br>
+Theme: 5 <br>
+Comments: Great website. <br>
 
-Jasmin: </br>
-Usability: 5 </br>
-Layout: 5 </br>
-Theme: 5 </br>
+Jasmin: <br>
+Usability: 5 <br>
+Layout: 5 <br>
+Theme: 5 <br>
 Comments: When I filled out the sign up page and pressed submit it did not redirect me to the profile I had just created. Instead I had to investigate whether I had actually made a profile. Otherwise I thought the site was visually appealing and easy to navigate. I like the variety of genres and skills that were represented and I think it would be a great platform to help musicians and fans connect.
 
 
