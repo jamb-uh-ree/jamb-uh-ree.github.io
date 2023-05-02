@@ -77,6 +77,7 @@ The create jam session page allows users to create a jam session so others will 
 
 After deploying the application the team had users test the application and provide feedback. This was done through a Google form that the users could fill out after experiencing the app. From this it was found that most users found the application very easy to use and found the layout of the application ideal. It was also found that many users enjoyed the overall theme of the application. One comment suggested that we redirect users to the profile page after editing their profile. This was actually thought about by the team before deployment, but other more important issues needed to be solved.
 
+(Scores out of 5)
 Ruben: </br>
 Usability: 5 </br>
 Layout: 5 </br>
