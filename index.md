@@ -11,6 +11,8 @@
 * [Progress](#progress)
 * [Team](#team)
 
+![ci-badge](https://github.com/jamb-uh-ree/jamb-uh-ree/workflows/ci-jambuhree/badge.svg)
+
 ## Overview
 
 Finding other students that share musical interests is a difficult task which Jamb-UH-ree intends to solve. Jamb-UH-ree is a hub for students at UH Manoa to find and connect with each other in order to plan jam sessions based on skill level, interests, influences and instruments. The Jamb-UH-ree organization's GitHub can be viewed <a href="https://github.com/jamb-uh-ree">here</a>.
@@ -74,6 +76,37 @@ The create jam session page allows users to create a jam session so others will 
 ## Community Feedback
 
 After deploying the application the team had users test the application and provide feedback. This was done through a Google form that the users could fill out after experiencing the app. From this it was found that most users found the application very easy to use and found the layout of the application ideal. It was also found that many users enjoyed the overall theme of the application. One comment suggested that we redirect users to the profile page after editing their profile. This was actually thought about by the team before deployment, but other more important issues needed to be solved.
+
+Ruben:
+Usability: 5
+Layout: 5
+Theme: 5
+Comments: This Buggah was shmean.
+
+Alexander:
+Usability: 4
+Layout: 4
+Theme: 4
+Comments: N/A
+
+Joshua:
+Usability: 5
+Layout: 5
+Theme: 4
+Comments: UI was simple to follow, but did not enjoy blue and yellow text.
+
+Eunices:
+Usability: 5
+Layout: 5
+Theme: 5
+Comments: Great website.
+
+Jasmin:
+Usability: 5
+Layout: 5
+Theme: 5
+Comments: When I filled out the sign up page and pressed submit it did not redirect me to the profile I had just created. Instead I had to investigate whether I had actually made a profile. Otherwise I thought the site was visually appealing and easy to navigate. I like the variety of genres and skills that were represented and I think it would be a great platform to help musicians and fans connect.
+
 
 ## Developer Guide
 
