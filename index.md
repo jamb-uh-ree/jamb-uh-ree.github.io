@@ -73,6 +73,13 @@ The create jam session page allows users to create a jam session so others will 
 
 ![](images/m3createjam.png)
 
+### Admin
+
+An admin has the ability to delete users and jam sessions by pressing the skull button on the given cards.
+
+![](images/m3admina.png)
+![](images/m3adminj.png)
+
 ## Community Feedback
 
 After deploying the application the team had users test the application and provide feedback. This was done through a Google form that the users could fill out after experiencing the app. From this it was found that most users found the application very easy to use and found the layout of the application ideal. It was also found that many users enjoyed the overall theme of the application. One comment suggested that we redirect users to the profile page after editing their profile. This was actually thought about by the team before deployment, but other more important issues needed to be solved.
