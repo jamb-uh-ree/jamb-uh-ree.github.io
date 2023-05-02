@@ -23,7 +23,11 @@ This section provides the user interface and capabilities of the Jamb-UH-ree app
 
 The landing page is the first page presented to users who are not logged into an account. Here users can choose to make an account, log in, and learn more about Jamb-UH-ree.
 
-![](images/m2landing.png)
+![](images/m3landing.png)
+
+This landing page is the presente to users who are logged in. The buttons are now various navgiation button to get around the site
+
+![](images/m3landing2.png)
 
 ### Sign Up
 
@@ -41,31 +45,31 @@ This is where users can input their email and password to log into a Jamb-UH-ree
 
 This is an example of a profile page of Albert Haynes. One can see Albert's information as well as the jam sessions he is attending.
 
-![](images/m2profile.png)
+![](images/m3profile.png)
 
 ### Edit Profile
 
 This is where users can personalize and add more information to their profile.
 
-![](images/m2edit.png)
+![](images/m3edit.png)
 
 ### Browse Artists Page
 
 In the artist browse page, users can look and filter through the list of other users to find people to jam with.
 
-![](images/m2browsea.png)
+![](images/m3browsea.png)
 
 ### Browse Jam Sessions Page
 
 In the jam session browse page, users can look and filter through the list of ongoing and future jam sessions to learn more about the sessions and choose to join.
 
-![](images/m2browsej.png)
+![](images/m3browsej.png)
 
 ### Create Jam Session
 
 The create jam session page allows users to create a jam session so others will be able to see and join the session.
 
-![](images/m2createjam.png)
+![](images/m3createjam.png)
 
 ## Community Feedback
 
