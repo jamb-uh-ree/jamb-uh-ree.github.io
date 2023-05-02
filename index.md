@@ -25,7 +25,7 @@ The landing page is the first page presented to users who are not logged into an
 
 ![](images/m3landing.png)
 
-This landing page is the presente to users who are logged in. The buttons are now various navgiation button to get around the site
+This landing page is presented to users who are logged in. The buttons are now various navigation buttons to get around the site.
 
 ![](images/m3landing2.png)
 
